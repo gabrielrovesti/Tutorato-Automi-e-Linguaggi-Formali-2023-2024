@@ -1,4 +1,4 @@
-# Tutorato-Programmazione-ad-Oggetti-2023-2024
+# Tutorato-Automi-e-Linguaggi-Formali-2023-2024
 Appunti e soluzioni degli esercizi proposti durante il tutorato del corso di Automi e Linguaggi Formali della laurea triennale di Informatica dell'Università degli Studi di Padova nell'anno 2023-2024
 
 ## Contatti
