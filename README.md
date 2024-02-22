@@ -21,7 +21,12 @@ gabriel.rovesti@studenti.unipd.it
 
 ## Materiale bibliografico di riferimento
 
-Consiglio approfonditamente la lettura del libro del corso _Introduction to the Theory of Computation_, decisamente ottimo per comprendere a pieno
+Consiglio approfonditamente la lettura del libro del corso _Introduction to the Theory of Computation_, decisamente ottimo per comprendere a pieno,
+sia per la parte di teoria che di pratica.
+
+## Materiale online di integrazione per comprensione
+
+- Theory of Computation & Automata Theory - Neso Channel [qui](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 
 ## Materiale di riferimento per altri esercizi
 
