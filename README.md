@@ -9,16 +9,16 @@ gabriel.rovesti@studenti.unipd.it
 
 | **Numero** | **Giorno**   |  **Ora**    | **Aula** |
 |:----------:|:------------:|:-----------:|:--------:|
-|      1     |  8 Marzo     | 12:30/14:30 |   1BC50  |
-|      2     |  15 Marzo    | 12:30/14:30 |   1BC50  |
-|      3     |  22 Marzo    | 12:30/14:30 |   1BC50  |
-|      4     |  12 Aprile   | 12:30/14:30 |   1BC50  |
-|      5     |  19 Aprile   | 12:30/14:30 |   1BC50  |
-|      6     |  10 Maggio   | 12:30/14:30 |   1BC50  |
-|      7     |  17 Maggio   | 12:30/14:30 |   1BC50  |
-|      8     |  24 Maggio   | 12:30/14:30 |   1BC50  |
-|      9     |  31 Maggio   | 12:30/14:30 |   1BC50  |
-|      10    |  6 Giugno    | 12:30/14:30 |   1BC50  |
+|      1     |  8 Marzo     | 14:30/16:30 |   2AB40  |
+|      2     |  15 Marzo    | 14:30/16:30 |   2AB40  |
+|      3     |  22 Marzo    | 14:30/16:30 |   2AB45  |
+|      4     |  12 Aprile   | 14:30/16:30 |   2AB40  |
+|      5     |  18 Aprile   | 10:30/12:30 |  LabP036 |
+|      6     |  10 Maggio   | 14:30/16:30 |   2AB40  |
+|      7     |  17 Maggio   | 14:30/16:30 |   2AB40  |
+|      8     |  24 Maggio   | 14:30/16:30 |   2AB40  |
+|      9     |  31 Maggio   | 14:30/16:30 |   2AB40  |
+|      10    |  7 Giugno    | 14:30/16:30 |   2AB40  |
 
 ## Materiale bibliografico di riferimento
 
