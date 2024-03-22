@@ -13,7 +13,7 @@ gabriel.rovesti@studenti.unipd.it
 |      2     |  15 Marzo    | 14:30/16:30 |   2AB40  |
 |      3     |  22 Marzo    | 14:30/16:30 |   2AB45  |
 |      4     |  12 Aprile   | 14:30/16:30 |   2AB40  |
-|      5     |  18 Aprile   | 10:30/12:30 |  LabP036 |
+|      5     |  19 Aprile   | 14:30/16:30 |   2BC30  |
 |      6     |  10 Maggio   | 14:30/16:30 |   2AB40  |
 |      7     |  17 Maggio   | 14:30/16:30 |   2AB40  |
 |      8     |  24 Maggio   | 14:30/16:30 |   2AB40  |
