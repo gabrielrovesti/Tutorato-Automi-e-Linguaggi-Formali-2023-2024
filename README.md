@@ -29,6 +29,11 @@ sia per la parte di teoria che di pratica.
 
 - Theory of Computation & Automata Theory - Neso Channel [qui](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 
+## Software utile
+
+- JFLAP [qui](http://www.jflap.org/)
+- Turing Machine Simulator [qui](http://morphett.info/turing/turing.html)
+
 ## Suggerimenti e/o dubbi sul materiale presente
 
 Per ulteriori commenti e approfondimenti delle soluzioni, siate liberi di contattarmi privatamente (per mail o tramite Telegram).
