@@ -1,0 +1,1 @@
+Why does it take 2n-1 rules to make a string in Chomsky Normal Form?: https://www.youtube.com/watch?v=GGZ30TBwg1w
