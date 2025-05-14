@@ -1,0 +1,5 @@
+## Materiale di riferimento per altri esercizi
+
+- lingpengzhang - AFL Tutoring [qui](https://github.com/linpengzhang/AFL-Tutoring)
+- alek9z - AutomiTutorato2018 [qui](https://github.com/alek9z/AutomiTutorato2018)
+- GiulioUmbrella - TutoratoAutomiLinguaggiFormali [qui](https://github.com/GiulioUmbrella/TutoratoAutomiLinguaggiFormali)
